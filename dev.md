@@ -1,6 +1,4 @@
 
-------------------
-
 #有多少同学使用git，使用github类似的工具托管项目
 
 --------------------
@@ -17,13 +15,21 @@ flash
 
 #loweprofero使用的技术
 jade
+
 stylus(less,sass)
+
 javascript(coffeescript,es5)
+
 package manager(bower,component)
+
 workflow(grunt,gulp,makefile)
+
 tools(gule,requiejs,icon-font)
+
 front-end mvc (backbone,angularjs,firebase)
+
 resposive design
+
 accessbility
 
 -------------------
