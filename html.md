@@ -5,19 +5,14 @@
 # <!DOCTYPE>
 
 - html5 <!DOCTYPE html>
-- html4.1 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
-- XHTML 1.0 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-http://www.w3school.com.cn/tags/tag_doctype.asp
+- quike mode standard mode
+- [link](http://www.w3school.com.cn/tags/tag_doctype.asp)
 
 ------------------------
 
 # base template
 
-https://github.com/h5bp/html5-boilerplate
-
+- https://github.com/h5bp/html5-boilerplate
 - how to load css file
 - load js file
 - detictive browser
@@ -26,14 +21,22 @@ https://github.com/h5bp/html5-boilerplate
 - crossdomain.xml for flash player
 
 ------------------------
+# html form
 
+- input text radio checkbox
+- select
+- html5 email date 
+- upload
+- submit
+
+--------------
 # Accessibility
 
-http://lepture.com/zh/2014/talk-on-accessibility-jsdc2014
+[lepture](http://lepture.com/zh/2014/talk-on-accessibility-jsdc2014)
 
-http://accessibility.athena-ict.com/aria/examples/tabpanel2.shtml
+[how to build a tab](http://accessibility.athena-ict.com/aria/examples/tabpanel2.shtml)
 
-- h1 h2 h3
+- h1 h2 h3 in one page
 - img add alt
 - add aria-label to icon-font
 - input with label
@@ -41,8 +44,11 @@ http://accessibility.athena-ict.com/aria/examples/tabpanel2.shtml
 - use &gt &lt
 
 --------------------
+#语意化与模块化
 
-# semantic and module
+- html5 tag aside content
+- no globel class
+- rules
 
 --------------------
 
